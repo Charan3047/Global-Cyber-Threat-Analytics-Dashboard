@@ -45,7 +45,7 @@ This dataset enables multi-dimensional analysis of cyber threats, financial impa
 
 # ⭐ Features / Highlights
 
-## a️⃣ Business Problem
+## Business Problem
 
 Cyberattacks are increasing in frequency, complexity, and financial impact across industries worldwide. Organizations often struggle to identify patterns in cyber incidents and understand which sectors, attack types, or vulnerabilities pose the greatest risk.
 
@@ -53,7 +53,7 @@ Without structured visualization, it becomes difficult for researchers, analysts
 
 ---
 
-## b️⃣ Goal of the Dashboard
+## Goal of the Dashboard
 
 The primary objective of this dashboard is to:
 
@@ -67,7 +67,7 @@ The dashboard transforms raw cyber threat data into **interactive and actionable
 
 ---
 
-## c️⃣ Walkthrough of Key Visuals
+## Walkthrough of Key Visuals
 
 ### 🔢 KPI Cards
 
@@ -122,7 +122,7 @@ This enables deeper exploration of cybersecurity trends from multiple perspectiv
 
 ---
 
-## d️⃣ Business Impact & Insights
+## Business Impact & Insights
 
 The dashboard provides several valuable insights:
 
@@ -139,6 +139,5 @@ These insights can help organizations:
 * Enhance incident response planning
 * Increase awareness of emerging cyber threats
 
----
-
-⭐ *If you found this project useful, consider giving the repository a star!*
+# Screenshot/Preview
+![Dashboard Preview](https://github.com/Charan3047/Global-Cyber-Threat-Analytics-Dashboard/blob/main/Snapshot_Dashboard.png)
