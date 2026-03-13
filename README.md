@@ -141,3 +141,9 @@ These insights can help organizations:
 
 # Screenshot/Preview
 ![Dashboard Preview](https://github.com/Charan3047/Global-Cyber-Threat-Analytics-Dashboard/blob/main/Snapshot_Dashboard.png)
+
+## **👤 Author**
+ ```
+ Charan Teja Kolipakula
+ Machine Learning & Data Science Enthusiast
+ ```
